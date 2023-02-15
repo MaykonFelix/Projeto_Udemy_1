@@ -1,12 +1,10 @@
-# Udemi Aprendizado 1
+# Udemy Aprendizado
 
-Criando uma Tela de Login Simples
+<p align="center">Criando uma Tela de Login Simples</p>
 
 <p align="center">
   <img alt="Projeto 1 Udemy" src="/assets/image1.jpg" width="50%">
 </p>
-
-<p align="center">Tela de Login</p>
 
 <hr>
 
