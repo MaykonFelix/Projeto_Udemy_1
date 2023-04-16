@@ -3,7 +3,7 @@
 <p align="center">Consumindo a API</p>
 
 <p align="center">
-<img width="460" height="300" src="/assets/Animação.gif">
+<img width="460" height="300" src="./assets/Animação.gif">
 </p>
 
 <hr>
