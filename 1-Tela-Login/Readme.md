@@ -6,6 +6,8 @@
   <img alt="Projeto 1 Udemy" src="./assets/image1.jpg" width="50%">
 </p>
 
+<p>Aprendi a criar um layout de login, aonde possui mostrar senha ou não.</p>
+
 <hr>
 
 ## Techs

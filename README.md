@@ -11,9 +11,9 @@ Aprendi a criar um layout de login, aonde possui mostrar senha ou não.
 <p align="center">
   <img alt="Projeto 1 Udemy" src="./1-Tela-Login/assets/image1.jpg" width="50%">
 </p>
-<br>
+<hr>
 
-### 2 - Adivinha Numero
+### <a href="./1-Tela-Login"> 2 - Adivinha Numero </a>
 
 ##### Tech: HTML, CSS e JavasSript
 
@@ -22,7 +22,7 @@ Criado um simples adivinha numero com Javascript.
 <p align="center">
   <img width="460" height="300" src="./2-Adivinha Número/assets/Animação.gif">
 </p>
-<br>
+<hr>
 
 ## 3 - Layout Kanban
 
