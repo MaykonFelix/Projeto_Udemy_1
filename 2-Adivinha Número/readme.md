@@ -3,12 +3,13 @@
 <p align="center">Criando um Adivinha de Número</p>
 
 <p align="center">
-<img width="460" height="300" src="/">
+<img width="460" height="300" src="/assets/Animação.gif">
 </p>
 
 <hr>
 
-## Learning 
+## Learning
+
   <p align="left">
     <a href="#">
       <img src="https://skillicons.dev/icons?i=html,css,js,vscode)" />  
