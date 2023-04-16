@@ -6,38 +6,32 @@ Sessão de aprendizados videos da Udemy...
 
 ##### Tech: HTML, CSS e JavasSript
 
-Aprendi a criar um layout de login, aonde possui mostrar senha ou não.
+<p>Aprendi a criar um layout de login, aonde possui mostrar senha ou não.</p>
 
 <p align="center">
   <img alt="Projeto 1 Udemy" src="./1-Tela-Login/assets/image1.jpg" width="50%">
 </p>
+
 <hr>
 
-### <a href="./1-Tela-Login"> 2 - Adivinha Numero </a>
+### <a href="./2-Adivinha Número"> 2 - Adivinha Numero </a>
 
 ##### Tech: HTML, CSS e JavasSript
 
-Criado um simples adivinha numero com Javascript.
+<p>Criado um simples adivinha numero com Javascript.</p>
 
 <p align="center">
   <img width="460" height="300" src="./2-Adivinha Número/assets/Animação.gif">
 </p>
+
 <hr>
 
-## 3 - Layout Kanban
+### <a href="./3-Consumir-API"> 3 - Consumindo uma API </a>
 
-##### Tech:
+##### Tech: HTML, CSS e JavasSript
 
 Criando um Layout Kanban estatico com HTML e CSS
 
-## 4 - Layout Cartão de Credito
-
-##### Tech: HTML, CSS e JS
-
-Aprendendo criar layout com autenticação
-
-## 5 - Layout Importar Aquivos
-
-##### Tech: HTML, CSS e JS
-
-Aprendendo criar layout para import de arquivos
+<p align="center">
+<img width="460" height="300" src="./3-Consumir-API/assets/Animação.gif">
+</p>
