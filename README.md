@@ -20,7 +20,7 @@ Aprendi a criar um layout de login, aonde possui mostrar senha ou não.
 Criado um simples adivinha numero com Javascript.
 
 <p align="center">
-  <img alt="Projeto 2 Udemy" src="/2-Advinha Número/assets/image1.jpg" width="40%">
+  <img alt="Projeto 2 Udemy" src="/2-Advinha Número/assets/Animação.gif" width="40%">
 </p>
 <br>
 
