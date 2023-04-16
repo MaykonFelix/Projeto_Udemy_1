@@ -9,7 +9,7 @@ Sessão de aprendizados videos da Udemy...
 Aprendi a criar um layout de login, aonde possui mostrar senha ou não.
 
 <p align="center">
-  <img alt="Projeto 1 Udemy" src="/1-Tela-Login/assets/image1.jpg" width="20%">
+  <img alt="Projeto 1 Udemy" src="/1-Tela-Login/assets/image1.jpg" width="40%">
 </p>
 
 ### 2 - CRUDE - Json
