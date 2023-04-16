@@ -11,12 +11,18 @@ Aprendi a criar um layout de login, aonde possui mostrar senha ou não.
 <p align="center">
   <img alt="Projeto 1 Udemy" src="/1-Tela-Login/assets/image1.jpg" width="40%">
 </p>
+<br>
 
-### 2 - CRUDE - Json
+### 2 - Adivinha Numero
 
-##### Tech: NODE, Express
+##### Tech: HTML, CSS e JavasSript
 
-Criado um CRUDE com manipulações .
+Criado um simples adivinha numero com Javascript.
+
+<p align="center">
+  <img alt="Projeto 2 Udemy" src="/2-Advinha Número/assets/image1.jpg" width="40%">
+</p>
+<br>
 
 ## 3 - Layout Kanban
 
