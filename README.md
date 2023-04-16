@@ -2,14 +2,14 @@
 
 Sessão de aprendizados videos da Udemy...
 
-### 1 - Tela de Login - Simples
+### 1 - Tela de Login
 
 ##### Tech: HTML, CSS e JavasSript
 
 Aprendi a criar um layout de login, aonde possui mostrar senha ou não.
 
-<p align="center">
-  <img alt="Projeto 1 Udemy" src="/1-Tela-Login/assets/image1.jpg" width="40%">
+<p align="right">
+  <img alt="Projeto 1 Udemy" src="/1-Tela-Login/assets/image1.jpg" width="5%">
 </p>
 <br>
 
