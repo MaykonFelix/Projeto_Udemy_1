@@ -3,7 +3,7 @@
 <p align="center">Criando uma Tela de Login Simples</p>
 
 <p align="center">
-  <img alt="Projeto 1 Udemy" src="/assets/image1.jpg" width="50%">
+  <img alt="Projeto 1 Udemy" src="./assets/image1.jpg" width="50%">
 </p>
 
 <hr>
@@ -14,7 +14,8 @@
 - [x] CSS
 - [x] Javascript
 
-## Learning 
+## Learning
+
   <p align="left">
     <a href="#">
       <img src="https://skillicons.dev/icons?i=html,css,js,vscode)" />  

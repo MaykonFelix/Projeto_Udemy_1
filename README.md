@@ -4,12 +4,14 @@ Sessão de aprendizados videos da Udemy...
 
 ### 1 - Tela de Login
 
+<a href="./1-Tela-Login">Aqui</a>
+
 ##### Tech: HTML, CSS e JavasSript
 
 Aprendi a criar um layout de login, aonde possui mostrar senha ou não.
 
 <p align="center">
-  <img alt="Projeto 1 Udemy" src="/1-Tela-Login/assets/image1.jpg" width="50%">
+  <img alt="Projeto 1 Udemy" src="./1-Tela-Login/assets/image1.jpg" width="50%">
 </p>
 <br>
 
@@ -20,7 +22,7 @@ Aprendi a criar um layout de login, aonde possui mostrar senha ou não.
 Criado um simples adivinha numero com Javascript.
 
 <p align="center">
-  <img width="460" height="300" src="/2-Adivinha Número/assets/Animação.gif">
+  <img width="460" height="300" src="./2-Adivinha Número/assets/Animação.gif">
 </p>
 <br>
 
